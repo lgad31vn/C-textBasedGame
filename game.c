@@ -1,6 +1,6 @@
 /*
  *Homework#1
- *Nam Nguyen
+ *Nam (Logan) Nguyen
  *CSC322 System Programming
  *First C lab -- program a smal text-based game in C
  * */
